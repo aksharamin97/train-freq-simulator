@@ -1,4 +1,4 @@
-# train-freq-simulator
+# Train Frequency Simulator
 
 This is a program for Raspberry Pi
 
